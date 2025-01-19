@@ -228,6 +228,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ## Acknowledgments
+![image](https://github.com/user-attachments/assets/842888b0-98a4-483b-a429-e669bbedf64c)
+
 - **University at Buffalo** for providing the course materials and assignment.
 - **Coursera** for hosting the course.
 - **Ethereum Foundation** for developing the tools and standards used in this project.
